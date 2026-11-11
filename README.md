@@ -4,7 +4,7 @@ Design, set up and grow your [Linker](https://linker.cool) link-in-bio page
 from Claude. This plugin brings the Linker connector, which reads and changes
 your page, together with skills that teach Claude how to do the work well:
 pick a look that fits, write CSS that passes Linker's checks, plan a launch,
-read your numbers and keep your clients.
+read your numbers, keep your clients and build widgets.
 
 ## Skills
 
@@ -18,6 +18,7 @@ read your numbers and keep your clients.
 | `media-kit` | A media kit, brand pitch or sponsor recap built on your real numbers. | Max |
 | `client-onboarding` | Adds a client, starts them on a workflow and makes their client page link. | Max |
 | `client-follow-ups` | Finds who needs a reply or a nudge today, drafts the messages and updates their stage. | Max |
+| `widgets` | For a business: writes, fixes and publishes the widgets it offers to creators' pages (a rating, a menu, an event), fixing whatever Linker's widget checker finds. | Pro (free when you paste the files yourself) |
 
 ## Use it
 

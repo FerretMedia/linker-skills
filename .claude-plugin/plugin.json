@@ -1,8 +1,8 @@
 {
 	"name": "linker",
 	"displayName": "Linker",
-	"version": "1.0.0",
-	"description": "Design, set up and grow your Linker link-in-bio page from Claude: restyle it in your own words, write its custom CSS, plan a launch, and on Max read its numbers, make a media kit and keep your clients.",
+	"version": "1.1.0",
+	"description": "Design, set up and grow your Linker link-in-bio page from Claude: restyle it in your own words, write its custom CSS, plan a launch, and on Max read its numbers, make a media kit, keep your clients and build widgets for creators' pages.",
 	"author": {
 		"name": "Ferret Media",
 		"email": "hello@linker.cool",
@@ -18,7 +18,8 @@
 		"design",
 		"css",
 		"analytics",
-		"clients"
+		"clients",
+		"widgets"
 	],
 	"privacyPolicyUrl": "https://linker.cool/legal/privacy",
 	"icon": ".claude-plugin/icon.png"
