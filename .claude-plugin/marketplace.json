@@ -1,0 +1,15 @@
+{
+	"name": "ferret-media",
+	"description": "Ferret Media's plugins for Claude Code.",
+	"owner": {
+		"name": "Ferret Media",
+		"email": "hello@linker.cool"
+	},
+	"plugins": [
+		{
+			"name": "linker",
+			"source": "./",
+			"description": "Design, set up and grow your Linker link-in-bio page from Claude."
+		}
+	]
+}

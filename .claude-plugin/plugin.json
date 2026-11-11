@@ -1,0 +1,25 @@
+{
+	"name": "linker",
+	"displayName": "Linker",
+	"version": "1.0.0",
+	"description": "Design, set up and grow your Linker link-in-bio page from Claude: restyle it in your own words, write its custom CSS, plan a launch, and on Max read its numbers, make a media kit and keep your clients.",
+	"author": {
+		"name": "Ferret Media",
+		"email": "hello@linker.cool",
+		"url": "https://linker.cool"
+	},
+	"homepage": "https://linker.cool/docs/ai-connector",
+	"repository": "https://github.com/FerretMedia/linker-skills",
+	"license": "MIT",
+	"keywords": [
+		"link in bio",
+		"bluesky",
+		"creators",
+		"design",
+		"css",
+		"analytics",
+		"clients"
+	],
+	"privacyPolicyUrl": "https://linker.cool/legal/privacy",
+	"icon": ".claude-plugin/icon.png"
+}
